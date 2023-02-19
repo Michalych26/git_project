@@ -1,2 +1,1 @@
-# git_project  
-Print(Hello, World!)
+# git_project
